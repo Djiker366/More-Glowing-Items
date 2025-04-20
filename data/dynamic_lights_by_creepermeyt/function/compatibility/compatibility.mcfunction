@@ -1,0 +1,1 @@
+function djiker:do_dynamic_lights

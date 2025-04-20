@@ -1,0 +1,9 @@
+execute at @a[predicate=djiker:offhand_tool_is_enchanted] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:mainhand_tool_is_enchanted] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:chest_equip_is_enchanted] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:feet_equip_is_enchanted] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:head_equip_is_enchanted] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:legs_equip_is_enchanted] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:legs_equip_is_enchanted] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:mainhand_is_enchanted_book] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
+execute at @a[predicate=djiker:offhand_is_enchanted_book] run function dynamic_lights_by_creepermeyt:internal/dynamiclight {level:3}
