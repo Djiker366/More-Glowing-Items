@@ -17,5 +17,5 @@ This is an addon for the **Dynamic Lights** datapack, extending its functionalit
 This works whether the player is wearing if applicable or holding enchanted items (in mainhand or offhand) <br>
 
 #### Note
-This datapack is not optimised 
+This datapack is not optimised <br>
 The link should be on [modrinth](https://modrinth.com/) to download [here](https://modrinth.com/datapack/more-items-dynamic-lights/s)
